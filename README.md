@@ -7,7 +7,7 @@ The project visually demonstrates how the **A\*** (A-star) algorithm searches fo
 
 ## 🎥 Preview Video
 
-[![A* Simulation Demo](path/to/thumbnail.png)](https://youtu.be/your_video_link)
+🎥 [Watch Demo Video](https://raw.githubusercontent.com/alawyyahdan/astar-sim/refs/heads/main/preview.mp4)
 
 ---
 
@@ -92,4 +92,5 @@ You are free to use, modify, and distribute this project for educational or rese
 ---
 
 ⭐ **If you find this project helpful, please star the repository!**
+
 
